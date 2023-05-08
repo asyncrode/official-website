@@ -15,52 +15,43 @@
                     <div class="carousel-inner">
                         <div class="carousel-item mt-1 active">
                             <div class="hero-one-3-content text-center">
-                                <span class="badge-lg bg-soft-primary text-primary text-uppercase rounded">Find Your
-                                    Element</span>
+                                <span class="badge-lg bg-soft-primary text-primary text-uppercase rounded">Customized websites</span>
                                 <h1 class="fw-light hero-title my-4">
                                     Powering Business
                                 </h1>
-                                <p class="fs-16 text-muted">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-                                    Est error maxime ullam veritatis beatae impedit sit illo nulla nemo dolor
-                                    mollitia ea unde.
-                                </p>
-
-                                <a href="#" class="btn btn-outline-primary mt-4">Discover more</a>
-                                <a href="#" class="btn btn-primary ms-2 mt-4">Contact us</a>
-                            </div>
-                        </div>
-                        <div class="carousel-item mt-1">
-                            <div class="hero-one-3-content text-center">
-                                <span class="badge-lg bg-soft-primary text-primary text-uppercase rounded">Multi
-                                    purpose theme</span>
-                                <h1 class="fw-light hero-title my-4">
-                                    To Grow Business
-                                </h1>
                                 <p class="fs-16 text-muted mb-4">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-                                    Est error maxime ullam veritatis beatae impedit sit illo nulla nemo dolor
-                                    mollitia ea unde.
-                                </p>
-
-                                <a href="#" class="btn btn-outline-primary">Discover more</a>
-                            </div>
-                        </div>
-                        <div class="carousel-item mt-1">
-                            <div class="hero-one-3-content text-center">
-                                <span class="badge-lg bg-soft-primary text-primary text-uppercase rounded">Start
-                                    Connecting</span>
-                                <h1 class="fw-light hero-title my-4">
-                                    With Online Customers
-                                </h1>
-                                <p class="fs-16 text-muted mb-4">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />
-                                    Est error maxime ullam veritatis beatae impedit sit illo nulla nemo dolor
-                                    mollitia ea unde.
+                                    Transform your business with our expert web development services. Empower your digital presence and stand out from the competition.
                                 </p>
 
                                 <a href="#" class="btn btn-outline-primary">Discover more</a>
                                 <a href="#" class="btn btn-primary ms-2">Contact us</a>
+                            </div>
+                        </div>
+                        <div class="carousel-item mt-1">
+                            <div class="hero-one-3-content text-center">
+                                <span class="badge-lg bg-soft-primary text-primary text-uppercase rounded">Move Forward</span>
+                                <h1 class="fw-light hero-title my-4">
+                                    To Stronger Digital Branding
+                                </h1>
+                                <p class="fs-16 text-muted mb-4">
+                                    Move your business forward with a website that truly represents your brand. Let us make you a website that helps your business stand out from the crowd.
+                                </p>
+
+                                <a href="#" class="btn btn-outline-primary">Discover more</a>
+                            </div>
+                        </div>
+                        <div class="carousel-item mt-1">
+                            <div class="hero-one-3-content text-center">
+                                <span class="badge-lg bg-soft-primary text-primary text-uppercase rounded">Elevate Your Business</span>
+                                <h1 class="fw-light hero-title my-4">
+                                    With Cutting-edge Website
+                                </h1>
+                                <p class="fs-16 text-muted">
+                                    Advance your business with cutting-edge website development. Reach more customers, increase engagement, and drive revenue with us.
+                                </p>
+
+                                <a href="#services" class="btn btn-outline-primary mt-4">Discover more</a>
+                                <a href="#" class="btn btn-primary ms-2 mt-4">Contact us</a>
                             </div>
                         </div>
                     </div>
@@ -174,7 +165,7 @@
 <!-- end services -->
 
 <!-- our features -->
-<section class="section bg-light" id="feature">
+<section class="section bg-light" id="howwework">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-5 col-md-6">
@@ -205,7 +196,7 @@
 <!-- end features -->
 
 <!--what client says -->
-<section class="section" id="review">
+<section class="section" id="clients">
     <div class="container">
         <div class="row justify-content-center mb-4">
             <div class="col-lg-8 text-center">

@@ -1,6 +1,6 @@
-// 
+//
 // variables.scss
-// 
+//
 
 // google font
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
@@ -19,19 +19,19 @@ $gray-900:            #212529;
 $black:               #000000;
 
 
-$primary:             #6d62fd;
+$primary:             /*#6d62fd*/ #38b6ff;
 $secondary:           #6c757d;
 $success:             #18ce76;
 $info:                #4bc1e2;
 $warning:             #fbb70b;
 $danger:              #e84040;
 $amber:               #cebca4;
-$dark:                #353348;
+$dark:                /*#353348*/ #403F4C;
 $light:               #f9f9fd;
-$muted:               #a5a5bf; 
+$muted:               #a5a5bf;
 
 // theme color
-$theme-colors:(    
+$theme-colors:(
         "primary": $primary,
         "secondary": $secondary,
         "success": $success,

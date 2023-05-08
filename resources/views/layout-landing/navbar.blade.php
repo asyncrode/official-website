@@ -1,9 +1,9 @@
         <!-- start navbar -->
         <nav class="navbar navbar-expand-lg fixed-top navbar-light sticky" id="navbar">
             <div class="container">
-                <a href="layout-one-1.html" class="navbar-brand">
-                    <img src="{{asset('assets/xolcy/images/logo-light.png')}}" class="logo-light" alt="" height="22" />
-                    <img src="{{asset('assets/xolcy/images/logo-dark.png')}}" class="logo-dark" alt="" height="22" />
+                <a href="#home" class="navbar-brand">
+                    <img src="{{asset('assets/xolcy/images/logo/logo.png')}}" class="logo-light" alt="" height="22" />
+                    <img src="{{asset('assets/xolcy/images/logo/logo_2.png')}}" class="logo-dark" alt="" height="22" />
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,16 +19,19 @@
                             <a class="nav-link" href="#services">Services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#feature">Features</a>
+                            <a class="nav-link" href="#howwework">How We Work</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#review">Clients</a>
+                            <a class="nav-link" href="#clients">Clients</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#portfolio">Portfolio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#pricing">Pricing</a>
+                            <a class="nav-link" href="#expertise">Expertise Areas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#pricing">Article</a>
                         </li>
                     </ul>
                     <a href="#" class="btn btn-sm nav-btn text-primary mb-4 mb-lg-0">Build Yours <i
