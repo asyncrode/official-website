@@ -5,7 +5,7 @@
 </head>
 <body>
     <!-- Page Container -->
-    <div id="page-container" class="sidebar-o sidebar-inverse enable-page-overlay page-header-fixed page-header-modern side-scroll main-content-narrow">
+    <div id="page-container" class="sidebar-o enable-page-overlay page-header-fixed page-header-modern side-scroll main-content-narrow">
 
         <!-- Header -->
         @include('layout-admin.header')

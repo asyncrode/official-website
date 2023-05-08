@@ -18,8 +18,8 @@
             <!-- Mini Mode -->
             <div class="content-header-section sidebar-mini-visible-b">
                 <!-- Logo -->
-                <span class="content-header-item font-w700 font-size-xl float-left animated fadeIn">
-                    <span class="text-dual-primary-dark">e</span><span class="text-primary">m</span>
+                <span class="content-header-item font-w700 font-size-s float-left animated fadeIn">
+                    <span class="text-dual-primary-dark">sy</span><span class="text-primary">nc</span>
                 </span>
                 <!-- END Logo -->
             </div>
@@ -36,8 +36,8 @@
 
                 <!-- Logo -->
                 <div class="content-header-item">
-                    <a class="link-effect font-w700" href="index.html">
-                        <span class="font-size-l text-dual-primary-dark">async</span><span class="font-size-l text-primary">rode</span>
+                    <a class="link-effect font-w700 font-size-xl" href="index.html">
+                        <span class="text-dual-primary-dark">async</span><span class="text-primary">rode</span>
                     </a>
                 </div>
                 <!-- END Logo -->
@@ -57,7 +57,7 @@
             <!-- Visible only in normal mode -->
             <div class="sidebar-mini-hidden-b text-center">
                 <a class="img-link" href="">
-                    <img class="img-avatar" src="{{ asset('assets/codebaseadmin/profile/avatar04.png') }}" alt="">
+                    <img class="img-avatar" src="{{ asset('assets/codebaseadmin/profile/Basic_Black.png') }}" alt="">
                 </a>
                 <ul class="list-inline mt-10">
                     <li class="list-inline-item">
@@ -88,18 +88,18 @@
                 </li>
 
                 <li>
-                    <a href="javascript:void(0)"><i class="si si-home"></i> <span class="sidebar-mini-hide">Manage Blog</span></a>
+                    <a href="javascript:void(0)"><i class="si si-note"></i> <span class="sidebar-mini-hide">Manage Blog</span></a>
                 </li>
                 <li>
-                    <a href="javascript:void(0)"><i class="si si-user"></i> <span class="sidebar-mini-hide">Manage Project</span></a>
+                    <a href="javascript:void(0)"><i class="si si-cup"></i> <span class="sidebar-mini-hide">Manage Project</span></a>
                 </li>
 
                 <!-- Admin Menu -->
                 <li class="nav-main-heading">
-                    <span class="sidebar-mini-visible">ADM</span><span class="sidebar-mini-hidden">Administrator</span>
+                    <span class="sidebar-mini-visible">AM</span><span class="sidebar-mini-hidden">Administrator</span>
                 </li>
                 <li>
-                    <a href="javascript:void(0)"><i class="si si-user-following"></i> <span class="sidebar-mini-hide">Admin</span></a>
+                    <a href="javascript:void(0)"><i class="si si-user"></i> <span class="sidebar-mini-hide">Admin</span></a>
                 </li>
 
             </ul>
